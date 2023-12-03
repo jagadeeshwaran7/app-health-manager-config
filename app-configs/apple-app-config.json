@@ -1,0 +1,5 @@
+{
+  "job_name": "apple_api_health",
+  "polling_interval_in_sec": 10,
+  "api_end_point": "https://apple.com"
+}
